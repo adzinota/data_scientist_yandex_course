@@ -1,4 +1,4 @@
-# yandex_practicum_data_scientist
+# data_scientist_yandex_course
 Проекты, выполненные на курсе Специалист по Data Science в Яндекс.Практикум
 
 ## Описание проектов
